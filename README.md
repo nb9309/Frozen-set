@@ -9,3 +9,17 @@
    syntax: a = frozenset()
 			b) Non-Empty  frozenset
 -> frozenset does'nt follow insertion order. So we can't do indexing and slicing.
+
+**Predefined funtions**
+
+->frozenset  contains the following Functions
+			a) copy()  only deep copy
+			b) isdisjoint()
+			c) issuperset()
+			d) issubset()
+			e) union()
+			f) intersection()
+			g) difference()
+			h) symmertic_difference()
+-> We can't use any updating or changing operators to frozenset.
+   
